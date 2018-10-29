@@ -1,4 +1,8 @@
 Manejo y preubas de la plataforma a utilizar.
-De manera inicial se han realizado pruebas en ubuntu en espera del servidor definitivo a utiñlizarse,dicho servidor viene a ser proporcionado por la escuela de informatica,(permitido en un inicio)por esto lo realizado en este tiempo es meramente para lograr familiarizarse con el entorno de trabajo creando conexiones entre git y ubuntu server. Acompañado en su mayor parte por investigacion del entorno y los comandos necesarios para que la plataforma funcione de buena manera.
+De manera inicial se han realizado pruebas en ubuntu en espera del servidor definitivo a utiñlizarse,
+dicho servidor viene a ser proporcionado por la escuela de informatica,(permitido en un inicio)por esto
+lo realizado en este tiempo es meramente para lograr familiarizarse con el entorno de trabajo creando 
+conexiones entre git y ubuntu server. Acompañado en su mayor parte por investigacion del entorno y los 
+comandos necesarios para que la plataforma funcione de buena manera.
 :wq
  
